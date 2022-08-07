@@ -57,7 +57,7 @@ Additional information on how IBC works can be found [here](https://ibc.cosmos.n
 
     ```shell
     $ git clone https://github.com/cosmos/relayer.git
-    $ cd relayer && git checkout v2.0.0-rc3
+    $ cd relayer && git checkout v2.0.0
     $ make install
     ```
 
